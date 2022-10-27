@@ -1,4 +1,5 @@
 let InputElementValue = document.getElementById("inputValues");
+
 //display values
 function display(val){
     InputElementValue.value+=val;
